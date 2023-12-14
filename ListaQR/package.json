@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^5.5.1",
+    "angularx-qrcode": "^16.0.2"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5"
+  }
+}
